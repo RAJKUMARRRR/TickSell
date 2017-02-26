@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354839977005",
+    "firebase_url": "https://ticksell-6bb7f.firebaseio.com",
+    "project_id": "ticksell-6bb7f",
+    "storage_bucket": "ticksell-6bb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354839977005:android:03329d74dff4fafb",
+        "android_client_info": {
+          "package_name": "com.ccc.raj.ticksell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354839977005-uu33ag20onoaejk7nm4r70unmvou1psr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ccc.raj.ticksell",
+            "certificate_hash": "9b9fb32c1a25c06ad1eb0032e724c35068ad763b"
+          }
+        },
+        {
+          "client_id": "354839977005-er0q2p3ioh13bso7f066oi0p6rfvsdhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxOxzmowN-FLgglw1zPiqs08r3zIohjs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354839977005-er0q2p3ioh13bso7f066oi0p6rfvsdhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
